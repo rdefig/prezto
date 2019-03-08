@@ -12,3 +12,6 @@ fi
 
 # Customize to your needs...
 
+source ~/.brazilrc
+
+export PATH=$HOME/bin:$PATH
